@@ -1,11 +1,9 @@
 #write your code here
 
 def countdown (timer)
-  timer > 0
-  
-  while time < 10
-    puts "#{x} SECOND(S)!"
-    x -= 1
+  while timer > 10
+    puts "#{timer} SECOND(S)!"
+    timer -= 1
   end
 end
 
