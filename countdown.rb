@@ -5,6 +5,7 @@ def countdown (timer)
     puts "#{timer} SECOND(S)!"
     timer -= 1
   end
+  
 end
 
 countdown
