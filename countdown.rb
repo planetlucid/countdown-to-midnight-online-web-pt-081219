@@ -7,5 +7,3 @@ def countdown (timer)
   end
   "HAPPY NEW YEAR!"
 end
-
-countdown
